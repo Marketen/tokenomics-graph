@@ -1,0 +1,482 @@
+[
+  {
+    "name": "Month 1",
+    "Public Sale": 33000000,
+    "Community Incentive": 60000000,
+    "Foundation": 93000000,
+    "Seed (Launch Partners)": 31500000,
+    "Private Round": 12150000,
+    "Team": 0,
+    "Partners & Advisors": 1250000
+  },
+  {
+    "name": "Month 2",
+    "Public Sale": 33000000,
+    "Community Incentive": 60000000,
+    "Foundation": 93000000,
+    "Seed (Launch Partners)": 33600000,
+    "Private Round": 13500000,
+    "Team": 0,
+    "Partners & Advisors": 2500000
+  },
+  {
+    "name": "Month 3",
+    "Public Sale": 33000000,
+    "Community Incentive": 60000000,
+    "Foundation": 93000000,
+    "Seed (Launch Partners)": 35700000,
+    "Private Round": 14850000,
+    "Team": 0,
+    "Partners & Advisors": 3750000
+  },
+  {
+    "name": "Month 4",
+    "Public Sale": 33000000,
+    "Community Incentive": 60000000,
+    "Foundation": 93000000,
+    "Seed (Launch Partners)": 37800000,
+    "Private Round": 16200000,
+    "Team": 0,
+    "Partners & Advisors": 5000000
+  },
+  {
+    "name": "Month 5",
+    "Public Sale": 33000000,
+    "Community Incentive": 60000000,
+    "Foundation": 93000000,
+    "Seed (Launch Partners)": 39900000,
+    "Private Round": 17550000,
+    "Team": 0,
+    "Partners & Advisors": 6250000
+  },
+  {
+    "name": "Month 6",
+    "Public Sale": 33000000,
+    "Community Incentive": 60000000,
+    "Foundation": 93000000,
+    "Seed (Launch Partners)": 42000000,
+    "Private Round": 18900000,
+    "Team": 0,
+    "Partners & Advisors": 7500000
+  },
+  {
+    "name": "Month 7",
+    "Public Sale": 33000000,
+    "Community Incentive": 60000000,
+    "Foundation": 93000000,
+    "Seed (Launch Partners)": 42000000,
+    "Private Round": 20250000,
+    "Team": 0,
+    "Partners & Advisors": 8750000
+  },
+  {
+    "name": "Month 8",
+    "Public Sale": 33000000,
+    "Community Incentive": 60000000,
+    "Foundation": 93000000,
+    "Seed (Launch Partners)": 42000000,
+    "Private Round": 21600000,
+    "Team": 0,
+    "Partners & Advisors": 10000000
+  },
+  {
+    "name": "Month 9",
+    "Public Sale": 33000000,
+    "Community Incentive": 60000000,
+    "Foundation": 93000000,
+    "Seed (Launch Partners)": 42000000,
+    "Private Round": 22950000,
+    "Team": 0,
+    "Partners & Advisors": 11250000
+  },
+  {
+    "name": "Month 10",
+    "Public Sale": 33000000,
+    "Community Incentive": 60000000,
+    "Foundation": 93000000,
+    "Seed (Launch Partners)": 42000000,
+    "Private Round": 24300000,
+    "Team": 0,
+    "Partners & Advisors": 12500000
+  },
+  {
+    "name": "Month 11",
+    "Public Sale": 33000000,
+    "Community Incentive": 60000000,
+    "Foundation": 93000000,
+    "Seed (Launch Partners)": 42000000,
+    "Private Round": 25650000,
+    "Team": 0,
+    "Partners & Advisors": 13750000
+  },
+  {
+    "name": "Month 12",
+    "Public Sale": 33000000,
+    "Community Incentive": 60000000,
+    "Foundation": 93000000,
+    "Seed (Launch Partners)": 42000000,
+    "Private Round": 27000000,
+    "Team": 625000,
+    "Partners & Advisors": 15000000
+  },
+  {
+    "name": "Month 13",
+    "Public Sale": 33000000,
+    "Community Incentive": 60000000,
+    "Foundation": 93000000,
+    "Seed (Launch Partners)": 42000000,
+    "Private Round": 27000000,
+    "Team": 1250000,
+    "Partners & Advisors": 15000000
+  },
+  {
+    "name": "Month 14",
+    "Public Sale": 33000000,
+    "Community Incentive": 60000000,
+    "Foundation": 93000000,
+    "Seed (Launch Partners)": 42000000,
+    "Private Round": 27000000,
+    "Team": 1875000,
+    "Partners & Advisors": 15000000
+  },
+  {
+    "name": "Month 15",
+    "Public Sale": 33000000,
+    "Community Incentive": 60000000,
+    "Foundation": 93000000,
+    "Seed (Launch Partners)": 42000000,
+    "Private Round": 27000000,
+    "Team": 2500000,
+    "Partners & Advisors": 15000000
+  },
+  {
+    "name": "Month 16",
+    "Public Sale": 33000000,
+    "Community Incentive": 60000000,
+    "Foundation": 93000000,
+    "Seed (Launch Partners)": 42000000,
+    "Private Round": 27000000,
+    "Team": 3125000,
+    "Partners & Advisors": 15000000
+  },
+  {
+    "name": "Month 17",
+    "Public Sale": 33000000,
+    "Community Incentive": 60000000,
+    "Foundation": 93000000,
+    "Seed (Launch Partners)": 42000000,
+    "Private Round": 27000000,
+    "Team": 3750000,
+    "Partners & Advisors": 15000000
+  },
+  {
+    "name": "Month 18",
+    "Public Sale": 33000000,
+    "Community Incentive": 60000000,
+    "Foundation": 93000000,
+    "Seed (Launch Partners)": 42000000,
+    "Private Round": 27000000,
+    "Team": 4375000,
+    "Partners & Advisors": 15000000
+  },
+  {
+    "name": "Month 19",
+    "Public Sale": 33000000,
+    "Community Incentive": 60000000,
+    "Foundation": 93000000,
+    "Seed (Launch Partners)": 42000000,
+    "Private Round": 27000000,
+    "Team": 5000000,
+    "Partners & Advisors": 15000000
+  },
+  {
+    "name": "Month 20",
+    "Public Sale": 33000000,
+    "Community Incentive": 60000000,
+    "Foundation": 93000000,
+    "Seed (Launch Partners)": 42000000,
+    "Private Round": 27000000,
+    "Team": 5625000,
+    "Partners & Advisors": 15000000
+  },
+  {
+    "name": "Month 21",
+    "Public Sale": 33000000,
+    "Community Incentive": 60000000,
+    "Foundation": 93000000,
+    "Seed (Launch Partners)": 42000000,
+    "Private Round": 27000000,
+    "Team": 6250000,
+    "Partners & Advisors": 15000000
+  },
+  {
+    "name": "Month 22",
+    "Public Sale": 33000000,
+    "Community Incentive": 60000000,
+    "Foundation": 93000000,
+    "Seed (Launch Partners)": 42000000,
+    "Private Round": 27000000,
+    "Team": 6875000,
+    "Partners & Advisors": 15000000
+  },
+  {
+    "name": "Month 23",
+    "Public Sale": 33000000,
+    "Community Incentive": 60000000,
+    "Foundation": 93000000,
+    "Seed (Launch Partners)": 42000000,
+    "Private Round": 27000000,
+    "Team": 7500000,
+    "Partners & Advisors": 15000000
+  },
+  {
+    "name": "Month 24",
+    "Public Sale": 33000000,
+    "Community Incentive": 60000000,
+    "Foundation": 93000000,
+    "Seed (Launch Partners)": 42000000,
+    "Private Round": 27000000,
+    "Team": 8125000,
+    "Partners & Advisors": 15000000
+  },
+  {
+    "name": "Month 25",
+    "Public Sale": 33000000,
+    "Community Incentive": 60000000,
+    "Foundation": 93000000,
+    "Seed (Launch Partners)": 42000000,
+    "Private Round": 27000000,
+    "Team": 8750000,
+    "Partners & Advisors": 15000000
+  },
+  {
+    "name": "Month 26",
+    "Public Sale": 33000000,
+    "Community Incentive": 60000000,
+    "Foundation": 93000000,
+    "Seed (Launch Partners)": 42000000,
+    "Private Round": 27000000,
+    "Team": 9375000,
+    "Partners & Advisors": 15000000
+  },
+  {
+    "name": "Month 27",
+    "Public Sale": 33000000,
+    "Community Incentive": 60000000,
+    "Foundation": 93000000,
+    "Seed (Launch Partners)": 42000000,
+    "Private Round": 27000000,
+    "Team": 10000000,
+    "Partners & Advisors": 15000000
+  },
+  {
+    "name": "Month 28",
+    "Public Sale": 33000000,
+    "Community Incentive": 60000000,
+    "Foundation": 93000000,
+    "Seed (Launch Partners)": 42000000,
+    "Private Round": 27000000,
+    "Team": 10625000,
+    "Partners & Advisors": 15000000
+  },
+  {
+    "name": "Month 29",
+    "Public Sale": 33000000,
+    "Community Incentive": 60000000,
+    "Foundation": 93000000,
+    "Seed (Launch Partners)": 42000000,
+    "Private Round": 27000000,
+    "Team": 11250000,
+    "Partners & Advisors": 15000000
+  },
+  {
+    "name": "Month 30",
+    "Public Sale": 33000000,
+    "Community Incentive": 60000000,
+    "Foundation": 93000000,
+    "Seed (Launch Partners)": 42000000,
+    "Private Round": 27000000,
+    "Team": 11875000,
+    "Partners & Advisors": 15000000
+  },
+  {
+    "name": "Month 31",
+    "Public Sale": 33000000,
+    "Community Incentive": 60000000,
+    "Foundation": 93000000,
+    "Seed (Launch Partners)": 42000000,
+    "Private Round": 27000000,
+    "Team": 12500000,
+    "Partners & Advisors": 15000000
+  },
+  {
+    "name": "Month 32",
+    "Public Sale": 33000000,
+    "Community Incentive": 60000000,
+    "Foundation": 93000000,
+    "Seed (Launch Partners)": 42000000,
+    "Private Round": 27000000,
+    "Team": 13125000,
+    "Partners & Advisors": 15000000
+  },
+  {
+    "name": "Month 33",
+    "Public Sale": 33000000,
+    "Community Incentive": 60000000,
+    "Foundation": 93000000,
+    "Seed (Launch Partners)": 42000000,
+    "Private Round": 27000000,
+    "Team": 13750000,
+    "Partners & Advisors": 15000000
+  },
+  {
+    "name": "Month 34",
+    "Public Sale": 33000000,
+    "Community Incentive": 60000000,
+    "Foundation": 93000000,
+    "Seed (Launch Partners)": 42000000,
+    "Private Round": 27000000,
+    "Team": 14375000,
+    "Partners & Advisors": 15000000
+  },
+  {
+    "name": "Month 35",
+    "Public Sale": 33000000,
+    "Community Incentive": 60000000,
+    "Foundation": 93000000,
+    "Seed (Launch Partners)": 42000000,
+    "Private Round": 27000000,
+    "Team": 15000000,
+    "Partners & Advisors": 15000000
+  },
+  {
+    "name": "Month 36",
+    "Public Sale": 33000000,
+    "Community Incentive": 60000000,
+    "Foundation": 93000000,
+    "Seed (Launch Partners)": 42000000,
+    "Private Round": 27000000,
+    "Team": 15625000,
+    "Partners & Advisors": 15000000
+  },
+  {
+    "name": "Month 37",
+    "Public Sale": 33000000,
+    "Community Incentive": 60000000,
+    "Foundation": 93000000,
+    "Seed (Launch Partners)": 42000000,
+    "Private Round": 27000000,
+    "Team": 16250000,
+    "Partners & Advisors": 15000000
+  },
+  {
+    "name": "Month 38",
+    "Public Sale": 33000000,
+    "Community Incentive": 60000000,
+    "Foundation": 93000000,
+    "Seed (Launch Partners)": 42000000,
+    "Private Round": 27000000,
+    "Team": 16875000,
+    "Partners & Advisors": 15000000
+  },
+  {
+    "name": "Month 39",
+    "Public Sale": 33000000,
+    "Community Incentive": 60000000,
+    "Foundation": 93000000,
+    "Seed (Launch Partners)": 42000000,
+    "Private Round": 27000000,
+    "Team": 17500000,
+    "Partners & Advisors": 15000000
+  },
+  {
+    "name": "Month 40",
+    "Public Sale": 33000000,
+    "Community Incentive": 60000000,
+    "Foundation": 93000000,
+    "Seed (Launch Partners)": 42000000,
+    "Private Round": 27000000,
+    "Team": 18125000,
+    "Partners & Advisors": 15000000
+  },
+  {
+    "name": "Month 41",
+    "Public Sale": 33000000,
+    "Community Incentive": 60000000,
+    "Foundation": 93000000,
+    "Seed (Launch Partners)": 42000000,
+    "Private Round": 27000000,
+    "Team": 18750000,
+    "Partners & Advisors": 15000000
+  },
+  {
+    "name": "Month 42",
+    "Public Sale": 33000000,
+    "Community Incentive": 60000000,
+    "Foundation": 93000000,
+    "Seed (Launch Partners)": 42000000,
+    "Private Round": 27000000,
+    "Team": 19375000,
+    "Partners & Advisors": 15000000
+  },
+  {
+    "name": "Month 43",
+    "Public Sale": 33000000,
+    "Community Incentive": 60000000,
+    "Foundation": 93000000,
+    "Seed (Launch Partners)": 42000000,
+    "Private Round": 27000000,
+    "Team": 20000000,
+    "Partners & Advisors": 15000000
+  },
+  {
+    "name": "Month 44",
+    "Public Sale": 33000000,
+    "Community Incentive": 60000000,
+    "Foundation": 93000000,
+    "Seed (Launch Partners)": 42000000,
+    "Private Round": 27000000,
+    "Team": 20625000,
+    "Partners & Advisors": 15000000
+  },
+  {
+    "name": "Month 45",
+    "Public Sale": 33000000,
+    "Community Incentive": 60000000,
+    "Foundation": 93000000,
+    "Seed (Launch Partners)": 42000000,
+    "Private Round": 27000000,
+    "Team": 21250000,
+    "Partners & Advisors": 15000000
+  },
+  {
+    "name": "Month 46",
+    "Public Sale": 33000000,
+    "Community Incentive": 60000000,
+    "Foundation": 93000000,
+    "Seed (Launch Partners)": 42000000,
+    "Private Round": 27000000,
+    "Team": 21875000,
+    "Partners & Advisors": 15000000
+  },
+  {
+    "name": "Month 47",
+    "Public Sale": 33000000,
+    "Community Incentive": 60000000,
+    "Foundation": 93000000,
+    "Seed (Launch Partners)": 42000000,
+    "Private Round": 27000000,
+    "Team": 22500000,
+    "Partners & Advisors": 15000000
+  },
+  {
+    "name": "Month 48",
+    "Public Sale": 33000000,
+    "Community Incentive": 60000000,
+    "Foundation": 93000000,
+    "Seed (Launch Partners)": 42000000,
+    "Private Round": 27000000,
+    "Team": 22500000,
+    "Partners & Advisors": 15000000
+  }
+]
