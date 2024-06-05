@@ -26,8 +26,8 @@ const MyChart = () => {
         data={data}
         margin={{
           top: 10,
-          right: 30,
-          left: 0,
+          right: 50,
+          left: 30,
           bottom: 0,
         }}
       >
